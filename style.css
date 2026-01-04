@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgba(128, 128, 128, 0.195);
+}
+header{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.logo{
+    height: 200px;
+    width: 200px;
+}
+.container{
+    display: flex;
+    margin-top: 20px;
+    width: 900px;
+    background-color: white;
+    margin: 20px auto 20px auto;
+}
+.content{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.p{
+    color: red;
+    margin-top: 10px;
+}
+.pp{
+    width: 550px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+.ppp{
+    color: rgba(231, 231, 11, 0.912);
+    margin-top: 6px;
+}
+.pppp{
+    padding: 6px;
+}
+button{
+    margin-top: 16px;
+    border: none;
+    border-radius: 5px;
+    
+    
+}
+.butt{
+    background-color: rgba(255, 196, 0, 0.778);
+    padding: 8px 10px 8px 10px;
+    font-size:12px;
+    
+
+}
+.but{
+    background-color: orange;
+    padding: 7px 10px;
+    margin-left: 4px;
+}
+
